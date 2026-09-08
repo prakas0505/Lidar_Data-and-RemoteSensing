@@ -6,7 +6,7 @@ This repository is based on the Forest Information Technology course materials o
 The scripts have been reviewed and updated to run on current R versions (R 4.4+, as of 2026), since several core dependencies were retired from CRAN between 2023 and 2026.
 
 Contents
-What this project does
+About the project
 Repository structure
 Requirements
 Setup
