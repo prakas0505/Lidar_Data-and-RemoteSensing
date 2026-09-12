@@ -1,7 +1,6 @@
 Airborne LiDAR & Point Cloud Processing in R
 
-A complete R-based workflow for airborne LiDAR point cloud processing, terrain and canopy modeling, individual tree delineation, and forest biomass estimation
-— covering everything from raw .las/.laz files to plot-level forest structure metrics.
+A complete R-based workflow for airborne LiDAR point cloud processing, terrain and canopy modeling, individual tree delineation, and forest biomass estimation that covering everything from raw .las/.laz files to plot-level forest structure metrics.
 This repository is based on the Forest Information Technology course materials originally developed by Nikolai Knapp for the University for Sustainable Development Eberswalde (HNEE), 2020.
 The scripts have been reviewed and updated to run on current R versions (R 4.4+, as of 2026), since several core dependencies were retired from CRAN between 2023 and 2026.
 
