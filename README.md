@@ -13,7 +13,7 @@ Data
 Compatibility notes (R 4.4+)
 Known limitations
 References
-Attribution.      
+Attribution      
 The workflow takes raw airborne LiDAR point clouds (and, in a companion simulation module, synthetic point clouds generated from forest inventory data) through a full forestry-focused processing pipeline:
 
 Read/write point clouds in .txt, .las/.laz, and .rds formats, and manage large collections of tiles with a LAScatalog.
